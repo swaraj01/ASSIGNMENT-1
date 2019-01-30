@@ -1,0 +1,12 @@
+C:\Users\HACKER\source\repos\ConsoleApp4\RectangleTest\bin\Debug\RectangleTest.dll
+C:\Users\HACKER\source\repos\ConsoleApp4\RectangleTest\bin\Debug\RectangleTest.pdb
+C:\Users\HACKER\source\repos\ConsoleApp4\RectangleTest\bin\Debug\ConsoleApp4.exe
+C:\Users\HACKER\source\repos\ConsoleApp4\RectangleTest\bin\Debug\nunit.framework.dll
+C:\Users\HACKER\source\repos\ConsoleApp4\RectangleTest\bin\Debug\ConsoleApp4.pdb
+C:\Users\HACKER\source\repos\ConsoleApp4\RectangleTest\bin\Debug\ConsoleApp4.exe.config
+C:\Users\HACKER\source\repos\ConsoleApp4\RectangleTest\bin\Debug\nunit.framework.xml
+C:\Users\HACKER\source\repos\ConsoleApp4\RectangleTest\obj\Debug\RectangleTest.csprojAssemblyReference.cache
+C:\Users\HACKER\source\repos\ConsoleApp4\RectangleTest\obj\Debug\RectangleTest.csproj.CoreCompileInputs.cache
+C:\Users\HACKER\source\repos\ConsoleApp4\RectangleTest\obj\Debug\RectangleTest.csproj.CopyComplete
+C:\Users\HACKER\source\repos\ConsoleApp4\RectangleTest\obj\Debug\RectangleTest.dll
+C:\Users\HACKER\source\repos\ConsoleApp4\RectangleTest\obj\Debug\RectangleTest.pdb
